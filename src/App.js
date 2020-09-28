@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
+import logo from './criador_colorido.png';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://blog.soucriador.com/images/criador_colorido.png" className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
           href="https://soucriador.com"
