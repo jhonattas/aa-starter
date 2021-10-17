@@ -9,11 +9,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="https://soucriador.com"
+          href="https://www.instagram.com/andreiaaraujointeriores/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sou Criador
+          Andreia Araujo Interiores
         </a>
       </header>
     </div>
